@@ -1,0 +1,9 @@
+{
+    "project_tittle": "Personal project",
+    "project_slug": "{{cookiecutter.project_tittle.lower().replace(' ', '_').replace('-',  '_')}}",
+    "project_description":  "something cool",
+    "project_author_name": "Author name",
+    "git_path": "No entry",
+    "project_packages": ["ALL", "Minimal"],
+    "python_version": "3.7"
+}
