@@ -3,12 +3,6 @@
 ### Requirements to use the cookiecutter template:
 
 ``` bash
-$ pip install cookiecutter
+$ conda env create -n ENVNAME --file ENV.yml
 ```
 
-or
-
-``` bash
-$ conda config --add channels conda-forge
-$ conda install cookiecutter
-```
